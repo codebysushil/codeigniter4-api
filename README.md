@@ -16,7 +16,7 @@ CI-4: Basic API starter kit for CodeIgniter4.
 composer require sushilk/codeigniter4-api
 ```
 ```bash
-php sprak make:api
+php spark make:api login
 ```
 ---
 
@@ -24,10 +24,12 @@ php sprak make:api
 
 ```php
 
-$route->get('/api/login');
-$route->post('/api/register');
+$routes->get('/api/login');
+$routes->post('/api/register');
 
 ```
 
 ---
 
+### License
+CodeIgniter4-API is released under the MIT License. See [`LICENSE`](LICENSE) for details.
