@@ -1,5 +1,5 @@
 {
-    "name": "sushilk/codeigniter-api",
+    "name": "sushilk/codeigniter4-api",
     "description": "CodeIgniter 4 API",
     "type": "library",
     "require": {
