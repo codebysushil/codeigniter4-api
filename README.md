@@ -32,4 +32,6 @@ $routes->post('/api/register');
 ---
 
 ### License
-CodeIgniter4-API is released under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+**CodeIgniter4-API** was created by **[`Sushil Kumar`](https://github.com/CodeBySushil/)** under the **[`MIT License`](LICENSE)**.
+See [`LICENSE`](LICENSE) for more details.
