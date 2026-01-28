@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.php diff=php
+*.md diff=markdown
+*.xml diff=xml
+
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/.editorconfig export-ignore
+/.github/ export-ignore
+/tests/ export-ignore
+/composer.lock export-ignore
+

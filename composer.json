@@ -1,0 +1,33 @@
+{
+    "name": "sushilk/codeigniter-api",
+    "description": "CodeIgniter 4 API",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "codeigniter4/framework": "^4.6",
+        "firebase/php-jwt": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.5",
+        "phpstan/phpstan": "^2.1",
+        "friendsofphp/php-cs-fixer": "^3.93",
+        "squizlabs/php_codesniffer": "^4.0",
+        "rector/rector": "^2.3",
+        "phpstan/phpstan-phpunit": "^2.0",
+        "phpstan/phpstan-deprecation-rules": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sushilk\\CodeigniterApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
